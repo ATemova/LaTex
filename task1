@@ -1,0 +1,87 @@
+% PREAMBLE
+\documentclass{article}
+
+%packages go here
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath} %for the math!
+\usepackage{graphicx} %for the images!
+\usepackage{hyperref}
+
+%pre defined title variables
+\title{The Beautiful Beast that is Godzilla}
+\author{Gospod Gozilla}
+\date{October 2022}
+
+\begin{document}
+
+\pagenumbering{gobble} %remove page number
+% the line that prints the title
+\maketitle
+\newpage
+\tableofcontents
+
+\newpage
+\pagenumbering{arabic}
+\section{Introduction}
+Hello World!
+
+\newpage
+\section{Theres gonna be Math here be scared}
+
+\subsection{Equations}
+
+\par This section will gonna be about Math
+\par Especially Analysis since we all love this course so much.
+
+\subsubsection{Big Equations}
+
+\begin{equation}
+    f(x)=^2
+\end{equation}
+
+\begin{equation*}
+    g(x)=x_{ab}
+\end{equation*}
+
+\subsubsection{Inline Equation}
+
+\par Analysis 1 is the easiest subject for first year RIN students. In the class, students $n=11$ cannot wait for the next session on limits.
+
+\subsection{Aligned Equations}
+
+\begin{align*}
+    2 + 3 &= 5 \\
+    5 &= 1 + 4 \\
+    6 - 1 &= 7 - 2 \\
+    F(x)=\int_{a}^{b}\frac{3}{4}X^{6}
+\end{align*}
+
+\begin{equation*}
+    F(x)=\int_{a}^{b}\frac{3}{4}X^{6}
+\end{equation*}
+
+\newpage
+\section{Picture!!!!!}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=5cm]{figures/p10184809_p_v8_ad.jpg}
+    \caption{Caption}
+    \label{fig:my_label}
+\end{figure}
+
+\newpage
+\section{Tables are made from hell}
+\begin{table}[h]
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+day/time & monday    & tuesday   & wednesday & thursday  & friday \\ \hline
+800      & exercise  & bike      & shower    & bike      & sleep  \\ \hline
+900      & sunbath   & breakfast & CP1       & breakfast & sleep  \\ \hline
+1000     & breakfast & shower    & analysis  & shower    & sleep  \\ \hline
+1100     & swim      & study     & cry       & study     & sleep  \\ \hline
+1200     & shower    & shopping  & sleep     & shopping  & sleep  \\ \hline
+\end{tabular}
+\end{table}
+
+%Please add the following required packages
+\end{document}
