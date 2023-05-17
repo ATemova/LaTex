@@ -1,0 +1,206 @@
+% Simple poster (portrait)
+% Author: Sofia Jijon (https://sjijon.github.io)
+% Last Update: Sept 9, 2021
+% Latest Version: https://github.com/sjijon/TeX-templates/tree/main/Tikzposter%20posters/Simple%20poster
+
+\documentclass[a1paper,portrait,margin=0pt, colspace=24pt,subcolspace=0pt,blockverticalspace=36pt,innermargin=50pt]{tikzposter}
+
+\usepackage[latin9]{inputenc}
+\usepackage[square,numbers]{natbib} 	% Bibliography manager
+\usepackage{amsmath,amssymb}
+\usepackage{lipsum}  				    % Random Text
+\usepackage[colalign]{aligncolsatbottom}  %To align columns at bottom (!! please run 2 times)
+
+%..............................................................................................................................................................................................
+% Display
+\tikzposterlatexaffectionproofoff 			
+\usetikzlibrary{shapes.geometric,arrows.meta,positioning}  %Tikz Libraries
+
+% Fonts
+\usepackage{helvet}					% Sans-Serif
+\renewcommand{\familydefault}{\sfdefault}	%
+
+% Colors
+	\definecolor{MyOrange}{rgb}{0.8, 0.33, 0}
+	\definecolor{MyBrown}{rgb}{0.28, 0.20, 0.20}
+	\definecolor{MyGreen}{rgb}{0.33, 0.42, 0.18}
+
+% Theme
+\usetheme{Default}
+\definecolorstyle{MyStyle2016}{
+	\definecolor{ColorOne}{named}{MyBrown} 
+	\definecolor{ColorTwo}{named}{MyOrange}
+	\definecolor{ColorThree}{named}{MyGreen}
+}{
+    % Title Colors
+    \colorlet{titlebgcolor}{ColorOne}
+    \colorlet{titlefgcolor}{white}
+    % Background Colors
+    \colorlet{backgroundcolor}{ColorOne!15}
+    \colorlet{framecolor}{ColorOne}
+    % Block Colors
+    \colorlet{blocktitlebgcolor}{white}
+    \colorlet{blocktitlefgcolor}{ColorTwo}
+    \colorlet{blockbodybgcolor}{white}
+    \colorlet{blockbodyfgcolor}{black}
+    % Innerblock Colors
+    \colorlet{innerblocktitlebgcolor}{ColorOne!15}
+    \colorlet{innerblocktitlefgcolor}{black}
+    \colorlet{innerblockbodybgcolor}{ColorOne!15}
+    \colorlet{innerblockbodyfgcolor}{black}
+    % Note colors
+    \colorlet{notebgcolor}{ColorTwo!20}
+    \colorlet{notefgcolor}{ColorTwo}
+    \colorlet{notefrcolor}{ColorTwo}
+ }
+
+% Color style
+\usecolorstyle{MyStyle2016}
+%..............................................................................................................................................................................................
+\title{Programming languages for game design}
+
+\author{Anastasija Temova}
+
+\institute{UP FAMNIT\\
+	Koper, october 2022}
+
+%..............................................................................................................................................................................................
+\begin{document}
+%
+%
+%	HEAD
+%
+%....................................................................................
+%
+%	Title
+%
+\maketitle[width=0.96\linewidth,titletoblockverticalspace=36pt,linewidth=0,roundedcorners=10]
+%..............................................................................................................................................................................................
+%
+%	LEFT COLUMN
+%
+\begin{columns}
+\column{0.33}
+%....................................................................................
+%
+%	Block
+%
+\block[titleleft,roundedcorners=16]{C++}{
+	\par C++ allows you to develop games across various platforms, including Windows, Mac, Linux, Android, and iOS. You need a game engine to create games. C++ is used in numerous 2D game engines and 3D game engines. The Unity game engine is written in C\#, but it's runtime language is C++. C++ is a language with a relatively high entry barrier but the reward is greater because it allows more direct control over the hardware and graphical processes.
+}
+%....................................................................................
+%
+%	Block
+%
+\block[titleleft,roundedcorners=16]{Games for C++ and Java}{
+    \begin{itemize}
+        \item Maplestory
+        \item Invictus
+        \item Doom III Engine
+        \item Runescape
+        \item Roboforge
+        \item Star Wars Galaxies
+    \end{itemize}
+}
+%....................................................................................
+%
+%	Block
+%
+\block[titleleft,roundedcorners=16]{Java}{
+    Java runs on everything, from printers and microwaves to complex video game systems. It's very dynamic language with lots of applications. Java is widely used by indie game development companies and for creating mobile games. Many of the world's top mobile games have been developed in Java.
+}
+%..............................................................................................................................................................................................
+%
+%	CENTER COLUMN
+%
+\column{0.34}
+%....................................................................................
+%
+% 	Block
+%
+\block[titleleft,roundedcorners=16]{Unity in game development}{
+    \begin{center}
+        \includegraphics[width=1\linewidth]{Figures/unity.jpg}
+    \end{center}
+
+ }
+%....................................................................................
+%
+%	Block
+%
+    \block[titleleft,roundedcorners=16]{Making a game in Unity}{
+    \begin{center}
+        \includegraphics[width=1\linewidth]{Figures/igra.jpg}
+    \end{center}
+}
+
+\block[titleleft,roundedcorners=16]{Example for Java class}{
+    \begin{center}
+        \includegraphics[width=1\linewidth]{Figures/java.jpg}
+    \end{center}
+}
+
+%..............................................................................................................................................................................................
+%
+% 	RIGHT COLUMN
+%
+\column{0.33}
+%%....................................................................................
+%
+%	Block
+%
+\block[titleleft,roundedcorners=16]{HTML5}{
+    \par HTML5 is one of the most popular and favorite program languages used by game developers across the world. HTML5 has everything a game developer needs, from offline asset storage, 2D and 3D graphics to audio APIs and support for all browsers. Also it's used in the web to give a page structure. 
+	
+	}
+%....................................................................................
+%
+%	Block
+%
+
+\block[titleleft,roundedcorners=16]{Games for JavaScript and HTML5}{
+    \par JavaScript is a very popular programming language that is used on nearly every website on the internet. Adding JavaScript to a web based applications can bring to life animations and interactions that make browsing and playing games even better.
+ }
+ 
+\block[titleleft,roundedcorners=16]{Games for JavaScript and HTML5}{
+\begin{itemize}
+    \item Everyone's sky
+    \item Underrun
+    \item Super chrono portal maker
+\end{itemize}
+ }
+\end{columns} 
+%..............................................................................................................................................................................................
+%
+%	FOOT
+%
+%....................................................................................
+%
+%	References
+%
+\block[titleleft,roundedcorners=16]{}{
+\small
+\begin{minipage}{0.73\linewidth}
+	\nocite{*}
+	\bibliographystyle{unsrtnat}
+	\bibliography{BibPoster}
+ \end{minipage}
+%....................................................................................
+%
+%	Logos
+%
+\begin{minipage}{0.2\linewidth}
+\centering
+	\includegraphics[height=5cm]{Figures/famnit.png}
+\end{minipage}
+}
+%....................................................................................
+%
+%	My info
+%
+\note[width=14cm,targetoffsetx=3cm,targetoffsety=3cm,rotate=15]{
+	\textbf{Contact information:}\\
+	Anastasija Temova\\
+	temanastasa@gmail.com
+}
+\end{document}
