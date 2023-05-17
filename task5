@@ -1,0 +1,1195 @@
+%1
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+% \cvsection{Achievements}
+
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvhonors}
+
+%---------------------------------------------------------
+%   \cvhonor
+%     {319/340} % Award
+%     {Graduate Record Examinations (GRE)} % Event
+%     {India} % Location
+%     {2019} % Date(s)
+%   \cvhonor
+%     {Elite} % Award
+%     {DBMS NPTEL Exam} % Event
+%     {India} % Location
+%     {2018} % Date(s)
+%   \cvhonor
+%     {Elite} % Award
+%     {C NPTEL Exam} % Event
+%     {India} % Location
+%     {2018} % Date(s)
+%   \cvhonor
+%     {Winner} % Award
+%     {Smart India Hackathon (SIH)} % Event
+%     {India} % Location
+%     {2019} % Date(s)
+%   \cvhonor
+%     {Level 3} % Award
+%     {TablaNiketan Exam} % Event
+%     {India} % Location
+%     {2014} % Date(s)
+%   \cvhonor
+%     {Level 1} % Award
+%     {National Talent Search Exam (NTSE)} % Event
+%     {India} % Location
+%     {2014} % Date(s)
+\end{cvhonors}
+
+%2
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Education}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+%   \cventry
+%     {High school Algoritam} % Institution
+%     {Skopje, NMK} % Location
+%     {Sept 2018 - June 2022} % Date(s)
+%     {
+%       \begin{cvitems} % Description(s) bullet points
+%         \item {\textbf{Courses:} Data Science, Programming for Data Science, Knowledge Representation and Reasoning, Statistical Theory and Methods, Learning Skills through Case Studies, Artificial Intelligence, Machine Learning, Statistical Learning}
+%       \end{cvitems}
+%     }
+    
+%   \cventry
+%     {BTech in Information Technology} % Degree
+%     {Madhav Institute of Technology and Science} % Institution
+%     {Gwalior, India} % Location
+%     {May 2016 - May 2020} % Date(s)
+%     {
+%       \begin{cvitems} % Description(s) bullet points
+%         \item {Graduated with Distinction}
+%         \item {Selected for Industrial Visit among the top of the class} 
+%       \end{cvitems}
+%     }
+    
+  \begin{cventries}
+\cventry
+{High School Degree} % Degree
+{High School Algoritam} % Institution
+{Skopje, Republic of North Macedonia} % Location
+{Sept 2018 - June 2022} % Date(s)
+{
+\begin{cvitems} % Description(s) bullet points
+\item {Graduated with Distinction}
+\item {Specialized in Mathematics and Computer Science}
+\end{cvitems}
+}
+\cventry
+{Bachelor's Degree} % Degree
+{University of Primorska} % Institution
+{Koper, Republic of Slovenia} % Location
+{Oct 2022 - present} % Date(s)
+{
+\begin{cvitems} % Description(s) bullet points
+\item {Majoring in Computer Science and Programming}
+\end{cvitems}
+}
+\end{cventries}
+%---------------------------------------------------------
+\end{cventries}
+
+%3
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+% \cvsection{Work Experience}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+%   \cventry
+%     {Software Engineer} % Job title
+%     {Indian Institute of Technology} % Organisation
+%     {Indore, India} % Location
+%     {Sept 2020 - Aug 2021} % Date(s)
+%     {
+%       \begin{cvitems} % Description(s) of tasks/responsibilities
+%         \item {Collaborated with a four-person team to develop a CNN model that utilised YOLO as a foundation to improve the accuracy of ambient lighting conditions in the Mobile net architecture.}
+%         \item {Automated and optimised the data handling process for traffic signs, working with Ubuntu 20.04 did shell scripting, and employed other Linux tools.}
+%         \item {Significantly boosted the model's accuracy by 60\%, which was yielding an accuracy of 70-78\% under Indian street light. The older models, had an accuracy of 10-15\%.}
+%         \item {\textbf{Technical Skills:} Python with PyTorch, NumPy, Matplotlib, Pandas, Scikit-learn, C++, Ubuntu Linux, Linux tools, Apt, Scripting, Git.}
+%         \item {\textbf{Soft Skills:} Teamwork, Time Management, Communication, Presentation skills.}
+%       \end{cvitems}
+%     }
+
+%---------------------------------------------------------
+%   \cventry
+%     {Machine Learning Intern} % Job title
+%     {Raja Ramanna Centre for Advanced Technology} % Organisation
+%     {Indore, India} % Location
+%     {Apr 2020 - Sept 2020} % Date(s)
+%     {
+%       \begin{cvitems} % Description(s) of tasks/responsibilities
+%         \item {Build a model with a team of three that works with a Genetic algorithm and is portable for scheduling scenarios may it be a schedule for school, employee time sheet etc.}
+%         \item {Designed to be flexible to any case with low time complexity compared to the existing models which were only useful in specific scenarios.}
+%         \item {Produced everything from scratch and published the library on \href{https://pypi.org/project/genetictabler/}{PyPi.}}
+%         \item {\textbf{Technical Skills:} Python with GeneticAlgorithm, NumPy, Setuptools, Wheel, Twine, Git.}
+%         \item {\textbf{Soft Skills:} Leadership, Time Management, Communication, Logical Thinking.}
+%       \end{cvitems}
+%     }
+
+%---------------------------------------------------------
+\end{cventries}
+
+%4
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+
+
+\cvsection{Interests}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvskills}
+%---------------------------------------------------------
+  \cvskill
+    {Programming} % Interest
+    {As an aspiring computer scientist, I am passionate about programming. My interest in this field began as a self-learner, and has since led me to pursue a formal education in computer science at the University of Primorska, where I am currently enrolled in an English-language program. Through my studies, I have gained a deeper understanding of programming languages, algorithms, and software development methodologies, and I am constantly seeking out new challenges to further expand my knowledge and skills. My ultimate goal is to leverage my passion for programming to create innovative solutions to complex problems, and to make a meaningful contribution to the field of computer science.} % Description
+
+%---------------------------------------------------------
+%   \cvskill
+%     {Linux} % Interest
+%     {Since 2017, I have been in love with Linux. I recently switched to Mac OS, which feels like a premium of Linux.} % Description
+%---------------------------------------------------------
+%   \cvskill
+%     {Technical Writing} % Interest
+%     {I write descriptive blogs about Linux some of them are on my \href{https://github.com/themagicalmammal/howtodebuntu}{GitHub} and \href{https://medium.com/@d19cyber}{Medium}.} % Description
+%---------------------------------------------------------
+%   \cvskill
+%     {Art} % Interest
+%     {I have always enjoyed drawing since I was a child. Recently, I have shifted to digital art mostly on \href{https://www.deviantart.com/themagicalmammal}{Deviantart}.} % Description
+%---------------------------------------------------------
+%   \cvskill
+%     {Video Games} % Interest
+%     {I always had the gaming gene. I mostly play on my phone and occasionally on my switch.} % Description
+%---------------------------------------------------------
+  \cvskill
+    {Swimming} % Interest
+    {Swimming has been a part of my life since the age of six, and it has become a true passion of mine. One of the most thrilling aspects of the sport, for me, is the sensation of submerging myself in water and holding my breath as I navigate through obstacles and challenges. From the very beginning, I was captivated by the sheer physicality of swimming, and the way it requires both strength and grace to achieve success. As I have grown as a swimmer, I have also come to appreciate the mental discipline and focus required to excel in the sport. Whether I am competing in a race or simply practicing in the pool, swimming challenges me both physically and mentally, and I find that it brings out the best in me. I am grateful for the opportunity to pursue this passion, and I look forward to continuing to develop my skills and achieve new levels of success in the sport.} % Description
+%---------------------------------------------------------
+
+\end{cvskills}
+
+%5
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Languages}
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvskills}
+
+%---------------------------------------------------------
+  \cvskill
+    {English} % Language
+    {Professional Knowledge} % Type
+
+%---------------------------------------------------------
+  \cvskill
+    {Slovenian} % Language
+    {B2} % Type
+%---------------------------------------------------------
+  \cvskill
+    {Macedonian} % Language
+    {Native language} % Type
+    %---------------------------------------------------------
+  \cvskill
+    {Serbian} % Language
+    {B2} % Type
+    
+
+\end{cvskills}
+
+%6
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+% \cvsection{University Projects}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+%   \cventry
+%     {University of Leeds} % Organisation
+%     {The Relation between GDP and IMR} % Project
+%     {Leeds, UK} % Location
+%     {Feb 2022 - Apr 2022} % Date(s)
+%     {
+%       \begin{cvitems} % Description(s) of project
+%         \item {Analysing data from 1960 to 2020 and discover patterns in the data that show trends between Gross domestic product per capita, Infant Mortality rate, Literacy Rate, and Industrial Development.}
+%         \item {Study cross‑sectional, longitudinal, and among various countries to find variations in trends and get the historical data to back up the change in the trend of our data.}
+%         \item {Specific case studies were traced back to trends seen in the UK and how they affected the GDP and IMR.}
+%         \item {\textbf{Technical Skills:} Tableau, Overleaf, LaTeX.}
+%         \item {\textbf{Soft Skills:} Time Management, Teamwork, Presentation skills, Report writing.}
+%       \end{cvitems}
+%     }
+
+
+%---------------------------------------------------------
+%   \cventry
+%     {University of Leeds} % Organisation
+%     {IPL Analysis} % Project
+%     {Leeds, UK} % Location
+%     {Nov 2021 - Dec 2021} % Date(s)
+%     {
+%       \begin{cvitems} % Description(s) of project
+%         \item {Analysing data from 2008 to 2015 to discover patterns such as trends, correlations, and probabilities.}
+%         \item {Finding the differences between the best teams and players in various fields, as well as their performance on the field and the opponents.}
+%         \item {\textbf{Technical Skills:} Python with Pandas, matplotlib, Seaborn.}
+%         \item {\textbf{Soft Skills:} Presentation skills, Leadership, Teamwork, Logical Thinking.}
+%       \end{cvitems}
+%     }
+
+%---------------------------------------------------------
+%   \cventry
+%     {University of Leeds} % Organisation
+%     {Study of the behavior of Serial Killers} % Project
+%     {Leeds, UK} % Location
+%     {Oct 2021 - Dec 2021} % Date(s)
+%     {
+%       \begin{cvitems} % Description(s) of project
+%         \item {Study of serial killers behavior with various motives such as convenience (did not want children or spouse), enjoyment, power, escape, or avoiding arrest.}
+%         \item {Finding patterns in their starting and ending ages (when they are caught) and other factors of killing, as well as how it varies with different motives.}
+%         \item {\textbf{Technical Skills:} R with ggplot2, tidyr, R Markdown.}
+%         \item {\textbf{Soft Skills:} Report writing, Logical Thinking, Critical Thinking.}
+%       \end{cvitems}
+%     }
+
+%---------------------------------------------------------
+\end{cventries}
+
+%7
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Skills}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvskills}
+
+%---------------------------------------------------------
+  \cvskill
+    {Programming} % Category
+    {Python, C/C++, HTML/CSS, JavaScript/TypeScript, Git/GitHub, Java, Assembly, Shell and PowerShell.} % Skills
+
+%---------------------------------------------------------
+  \cvskill
+    {Soft Skills} % Category
+    {Communication, Time Management, Teamwork, Problem-solving, Adaptability, Emotional Intelligence, Leadership, Self-motivation, Positive attitude, Cultural competence, Networking, Conflict resolution, Decision making, Critical thinking, Active listening, Confidence, Resilience, Empathy, Digital Literacy and Engaging Presentation.} % Skills
+
+\end{cvskills}
+
+%8
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Personal Profile}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvparagraph}
+
+%---------------------------------------------------------
+As a first-year undergraduate student at the University of Primorska, I am deeply committed to my studies in computer science. My coursework includes a range of subjects, from the foundations of computer science and programming, to more advanced topics such as data structures and algorithms, software engineering, and artificial intelligence. I am particularly drawn to the flexibility and power of Python, and I have spent a significant amount of time exploring its applications in areas such as data science, machine learning, and web development.
+
+In addition to my coursework, I am actively seeking out extracurricular opportunities to expand my skills and knowledge. I participate in programming contests and hackathons, where I can test my abilities and collaborate with other students. I also engage in personal coding projects, such as building small-scale web applications and developing algorithms for various tasks. These experiences have helped me develop a deep understanding of the practical applications of computer science, and have provided me with a foundation of hands-on experience that I believe will be invaluable in my future career.
+
+Looking ahead, I am excited to continue exploring the many facets of computer science and programming. I am particularly interested in the potential of these fields to address complex challenges in areas such as healthcare, environmental sustainability, and social justice. My ultimate goal is to leverage my skills and knowledge to make a meaningful impact in the world, and to contribute to the ongoing development of the field of computer science.
+\end{cvparagraph}
+
+%9
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{russell}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% russell Colors: russell-emerald, russell-skyblue, russell-red, russell-pink, russell-orange
+%                 russell-nephritis, russell-concrete, russell-darknight, russell-purple
+\colorlet{russell}{russell-black}
+% Uncomment if you would like to specify your own color
+% \definecolor{russell}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with russell color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+% \photo[rectangle,edge,right]{./examples/profile}
+\name{Anastasija}{Temova}
+% \position{Software Architect{\enskip\cdotp\enskip}Security Expert}
+
+
+\mobile{+386 51 848 118} 
+\email{89221055@student.upr.si} 
+\github{https://github.com/ATemova} 
+\linkedin{https://www.linkedin.com/in/anastasija-temova-558073212/}
+%\dateofbirth{January 1st, 1970}
+%\homepage{www.posquit0.com} 
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \medium{madium-id}
+% \kaggle{kaggle-id}
+% \googlescholar{googlescholar-id}{name-to-display}
+%% \firstname and \lastname will be used
+% \googlescholar{googlescholar-id}{}
+% \extrainfo{extra information}
+
+% \quote{``Simplicity is deceptively complicated."}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+\makecvfooter
+  {\today}
+  {}
+  {\thepage}
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%	Each section is imported separately, open each file in turn to modify content
+%-------------------------------------------------------------------------------
+\input{cv/summary.tex}
+\input{cv/education.tex}
+\input{cv/experience.tex}
+\input{cv/projects.tex}
+\input{cv/skills.tex}
+\input{cv/achievements.tex}
+\input{cv/interests.tex}
+\input{cv/languages.tex}
+
+\vspace*{\fill}
+\centering{\textbf{References available upon request.}}
+%-------------------------------------------------------------------------------
+\end{document}
+
+%10
+%-------------------------------------------------------------------------------
+%                Identification
+%-------------------------------------------------------------------------------
+\ProvidesClass{russell}[2017/02/05 v1.6.1 russell Curriculum Vitae Class]
+\NeedsTeXFormat{LaTeX2e}
+
+
+%-------------------------------------------------------------------------------
+%                Class options
+%
+% (need to be done before the external package loading, for example because
+% we need \paperwidth, \paperheight and \@ptsize to be defined before loading
+% geometry and fancyhdr)
+%-------------------------------------------------------------------------------
+% Options for draft or final
+\DeclareOption{draft}{\setlength\overfullrule{5pt}}
+\DeclareOption{final}{\setlength\overfullrule{0pt}}
+% Inherit options of article
+\DeclareOption*{%
+  \PassOptionsToClass{\CurrentOption}{article}
+}
+\ProcessOptions\relax
+\LoadClass{article}
+
+
+%-------------------------------------------------------------------------------
+%                3rd party packages
+%-------------------------------------------------------------------------------
+% Needed to make fixed length table
+\RequirePackage{array}
+% Needed to handle list environment
+\RequirePackage{enumitem}
+% Needed to handle text alignment
+\RequirePackage{ragged2e}
+% Needed to configure page layout
+\RequirePackage{geometry}
+% Needed to make header & footer effeciently
+\RequirePackage{fancyhdr}
+% Needed to manage colors
+\RequirePackage{xcolor}
+% Needed to use \ifxetex-\else-\fi statement
+\RequirePackage{ifxetex}
+% Needed to use \if-\then-\else statement
+\RequirePackage{xifthen}
+% Needed to use a toolbox of programming tools
+\RequirePackage{etoolbox}
+% Needed to change line spacing in specific environment
+\RequirePackage{setspace}
+% Needed to manage fonts
+\RequirePackage[quiet]{fontspec}
+% To support LaTeX quoting style
+\defaultfontfeatures{Ligatures=TeX}
+% Needed to manage math fonts
+\RequirePackage{unicode-math}
+% Needed to use icons from font-awesome
+\RequirePackage{fontawesome5}
+\RequirePackage{roboto}
+\RequirePackage[default,opentype]{sourcesanspro}
+% Needed for the photo ID
+\RequirePackage[skins]{tcolorbox}
+% Needed to deal a paragraphs
+\RequirePackage{parskip}
+% Needed to deal hyperlink
+\RequirePackage[hidelinks,unicode,pdfpagelabels=false]{hyperref}
+\hypersetup{%
+  pdftitle={},
+  pdfauthor={},
+  pdfsubject={},
+  pdfkeywords={}
+}
+% Solves issues Warning: File `cv.out' has changed
+\RequirePackage{bookmark}
+
+%-------------------------------------------------------------------------------
+%                Configuration for directory locations
+%-------------------------------------------------------------------------------
+% Configure an optional directory location for fonts(default: 'fonts/')
+% Not required anymore but left in place for backward compatability.
+\newcommand*{\fontdir}[1][fonts/]{\def\@fontdir{#1}}
+
+%-------------------------------------------------------------------------------
+%                Configuration for layout
+%-------------------------------------------------------------------------------
+%% Page Layout
+% Configure page margins with geometry
+\geometry{left=2.0cm, top=1.5cm, right=2.0cm, bottom=2.0cm, footskip=.5cm}
+
+%% Header & Footer
+% Set offset to each header and footer
+\fancyhfoffset{0em}
+% Remove head rule
+\renewcommand{\headrulewidth}{0pt}
+% Clear all header & footer fields
+\fancyhf{}
+% Enable if you want to make header or footer using fancyhdr
+\pagestyle{fancy}
+
+
+%-------------------------------------------------------------------------------
+%                Configuration for colors
+%-------------------------------------------------------------------------------
+% Gray-scale colors
+\definecolor{white}{HTML}{FFFFFF}
+\definecolor{black}{HTML}{000000}
+\definecolor{darkgray}{HTML}{333333}
+\definecolor{gray}{HTML}{5D5D5D}
+\definecolor{lightgray}{HTML}{999999}
+% Basic colors
+\definecolor{green}{HTML}{C2E15F}
+\definecolor{orange}{HTML}{FDA333}
+\definecolor{purple}{HTML}{D3A4F9}
+\definecolor{red}{HTML}{FB4485}
+\definecolor{blue}{HTML}{6CE0F1}
+% Text colors
+\definecolor{darktext}{HTML}{414141}
+\colorlet{text}{darkgray}
+\colorlet{graytext}{gray}
+\colorlet{lighttext}{lightgray}
+\colorlet{sectiondivider}{gray}
+% russell colors
+\definecolor{russell-emerald}{HTML}{00A388}
+\definecolor{russell-skyblue}{HTML}{0395DE}
+\definecolor{russell-red}{HTML}{DC3522}
+\definecolor{russell-purple}{HTML}{A32CC4}
+\definecolor{russell-pink}{HTML}{EF4089}
+\definecolor{russell-orange}{HTML}{FF6138}
+\definecolor{russell-nephritis}{HTML}{27AE60}
+\definecolor{russell-concrete}{HTML}{95A5A6}
+\definecolor{russell-darknight}{HTML}{131A28}
+\definecolor{russell-black}{HTML}{000000}
+\colorlet{russell}{russell-red}
+
+% Boolean value to switch section color highlighting
+\newbool{acvSectionColorHighlight}
+\setbool{acvSectionColorHighlight}{true}
+
+% russell section color
+\def\@sectioncolor#1#2#3{%
+  \ifbool{acvSectionColorHighlight}{{\color{russell}#1#2#3}}{#1#2#3}%
+}
+
+
+%-------------------------------------------------------------------------------
+%                Configuration for fonts
+%-------------------------------------------------------------------------------
+\newcommand*{\headerfont}{\roboto}
+\newcommand*{\headerfontlight}{\robotolight}
+\newcommand*{\footerfont}{\sourcesanspro}
+\newcommand*{\bodyfont}{\sourcesanspro}
+\newcommand*{\bodyfontlight}{\sourcesansprolight}
+
+%-------------------------------------------------------------------------------
+%                Configuration for styles
+%-------------------------------------------------------------------------------
+% Configure styles for each CV elements
+% For fundamental structures
+\newcommand*{\headerfirstnamestyle}[1]{{\fontsize{20pt}{1em}\headerfont\color{text} #1}}
+\newcommand*{\headerlastnamestyle}[1]{{\fontsize{20pt}{1em}\headerfont\color{text} #1}}
+\newcommand*{\headerpositionstyle}[1]{{\fontsize{7.6pt}{1em}\bodyfont\scshape\color{russell} #1}}
+\newcommand*{\headeraddressstyle}[1]{{\fontsize{8pt}{1em}\headerfont\itshape\color{lighttext} #1}}
+\newcommand*{\headersocialstyle}[1]{{\fontsize{6.8pt}{1em}\headerfont\color{text} #1}}
+\newcommand*{\headerquotestyle}[1]{{\fontsize{9pt}{1em}\bodyfont\itshape\color{darktext} #1}}
+\newcommand*{\footerstyle}[1]{{\fontsize{8pt}{1em}\footerfont\scshape\color{lighttext} #1}}
+\newcommand*{\sectionstyle}[1]{{\fontsize{16pt}{1em}\bodyfont\bfseries\color{text}\@sectioncolor #1}}
+\newcommand*{\subsectionstyle}[1]{{\fontsize{12pt}{1em}\bodyfont\scshape\textcolor{text}{#1}}}
+\newcommand*{\paragraphstyle}{\fontsize{9pt}{1em}\bodyfontlight\upshape\color{text}}
+
+% For elements of entry
+\newcommand*{\entrytitlestyle}[1]{{\fontsize{10pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
+\newcommand*{\entrypositionstyle}[1]{{\fontsize{9pt}{1em}\bodyfont\color{graytext} #1}}
+\newcommand*{\entrydatestyle}[1]{{\fontsize{8pt}{1em}\bodyfontlight\slshape\color{graytext} #1}}
+\newcommand*{\entrylocationstyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\slshape\color{russell} #1}}
+\newcommand*{\descriptionstyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\upshape\color{text} #1}}
+
+% For elements of subentry
+\newcommand*{\subentrytitlestyle}[1]{{\fontsize{8pt}{1em}\bodyfont\mdseries\color{graytext} #1}}
+\newcommand*{\subentrypositionstyle}[1]{{\fontsize{7pt}{1em}\bodyfont\scshape\color{graytext} #1}}
+\newcommand*{\subentrydatestyle}[1]{{\fontsize{7pt}{1em}\bodyfontlight\slshape\color{graytext} #1}}
+\newcommand*{\subentrylocationstyle}[1]{{\fontsize{7pt}{1em}\bodyfontlight\slshape\color{russell} #1}}
+\newcommand*{\subdescriptionstyle}[1]{{\fontsize{8pt}{1em}\bodyfontlight\upshape\color{text} #1}}
+
+% For elements of honor
+\newcommand*{\honortitlestyle}[1]{{\fontsize{9pt}{1em}\bodyfont\color{graytext} #1}}
+\newcommand*{\honorpositionstyle}[1]{{\fontsize{9pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
+\newcommand*{\honordatestyle}[1]{{\fontsize{9pt}{1em}\bodyfont\color{graytext} #1}}
+\newcommand*{\honorlocationstyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\slshape\color{russell} #1}}
+
+% For elements of skill
+\newcommand*{\skilltypestyle}[1]{{\fontsize{10pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
+\newcommand*{\skillsetstyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\color{text} #1}}
+
+% For elements of the cover letter
+\newcommand*{\lettersectionstyle}[1]{{\fontsize{14pt}{1em}\bodyfont\bfseries\color{text}\@sectioncolor #1}}
+\newcommand*{\recipientaddressstyle}[1]{{\fontsize{9pt}{1em}\bodyfont\scshape\color{graytext} #1}}
+\newcommand*{\recipienttitlestyle}[1]{{\fontsize{11pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
+\newcommand*{\lettertitlestyle}[1]{{\fontsize{10pt}{1em}\bodyfontlight\bfseries\color{darktext} \underline{#1}}}
+\newcommand*{\letterdatestyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\slshape\color{graytext} #1}}
+\newcommand*{\lettertextstyle}{\fontsize{10pt}{1.4em}\bodyfontlight\upshape\color{graytext}}
+\newcommand*{\letternamestyle}[1]{{\fontsize{10pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
+\newcommand*{\letterenclosurestyle}[1]{{\fontsize{10pt}{1em}\bodyfontlight\slshape\color{lighttext} #1}}
+
+
+%-------------------------------------------------------------------------------
+%                Commands for personal information
+%-------------------------------------------------------------------------------
+% Define photo ID
+% Usage: \photo[circle|rectangle,edge|noedge,left|right]{<path-to-image>}
+\newcommand{\photo}[2][circle,edge,left]{%
+  \def\@photo{#2}
+  \@for\tmp:=#1\do{%
+    \ifthenelse{\equal{\tmp}{circle} \or \equal{\tmp}{rectangle}}%
+      {\let\@photoshape\tmp}{}%
+    \ifthenelse{\equal{\tmp}{edge} \or \equal{\tmp}{noedge}}%
+      {\let\@photoedge\tmp}{}%
+    \ifthenelse{\equal{\tmp}{left} \or \equal{\tmp}{right}}%
+      {\let\@photoalign\tmp}{}%
+  }%
+}
+\def\@photoshape{circle}
+\def\@photoedge{edge}
+\def\@photoalign{left}
+
+% Define writer's name
+% Usage: \name{<firstname>}{<lastname>}
+% Usage: \firstname{<firstname>}
+% Usage: \lastname{<lastname>}
+% Usage: \familyname{<familyname>}
+\newcommand*{\name}[2]{\def\@firstname{#1}\def\@lastname{#2}}
+\newcommand*{\firstname}[1]{\def\@firstname{#1}}
+\newcommand*{\lastname}[1]{\def\@lastname{#1}}
+\newcommand*{\familyname}[1]{\def\@lastname{#1}}
+\def\@familyname{\@lastname}
+
+% Define writer's address
+% Usage: \address{<address>}
+\newcommand*{\address}[1]{\def\@address{#1}}
+
+% Define writer's position
+% Usage: \position{<position>}
+\newcommand*{\position}[1]{\def\@position{#1}}
+
+% Defines writer's mobile (optional)
+% Usage: \mobile{<mobile number>}
+\newcommand*{\mobile}[1]{\def\@mobile{#1}}
+
+% Defines writer's email (optional)
+% Usage: \email{<email address>}
+\newcommand*{\email}[1]{\def\@email{#1}}
+
+% Defines writer's date of birth (optional)
+% Usage: \dateofbirth{<date>}
+\newcommand*{\dateofbirth}[1]{\def\@dateofbirth{#1}}
+
+% Defines writer's homepage (optional)
+% Usage: \homepage{<url>}
+\newcommand*{\homepage}[1]{\def\@homepage{#1}}
+
+% Defines writer's github (optional)
+% Usage: \github{<github-nick>}
+\newcommand*{\github}[1]{\def\@github{#1}}
+
+% Defines writer's gitlab (optional)
+% Usage: \gitlab{<gitlab-nick>}
+\newcommand*{\gitlab}[1]{\def\@gitlab{#1}}
+
+% Defines writer's bitbucket (optional)
+% Usage: \bitbucket{<bitbucket-nick>}
+\newcommand*{\bitbucket}[1]{\def\@bitbucket{#1}}
+
+% Defines writer's stackoverflow profile (optional)
+% Usage: \stackoverflow{<so userid>}{<so username>}
+%   e.g.https://stackoverflow.com/users/123456/sam-smith
+%       would be \stackoverflow{123456}{sam-smith}
+\newcommand*{\stackoverflow}[2]{\def\@stackoverflowid{#1}\def\@stackoverflowname{#2}}
+
+% Defines writer's linked-in (optional)
+% Usage: \linkedin{<linked-in-nick>}
+\newcommand*{\linkedin}[1]{\def\@linkedin{#1}}
+
+% Defines writer's orcid (optional)
+% Usage: \orcid{<orcid-num>}
+\newcommand*{\orcid}[1]{\def\@orcid{#1}}
+
+% Defines writer's twitter (optional)
+% Usage: \twitter{<twitter handle>}
+\newcommand*{\twitter}[1]{\def\@twitter{#1}}
+
+% Defines writer's Mastodon (optional)
+% Usage: \mastodon{<instance>}{<mastodon-nick>}
+\newcommand*{\mastodon}[2]{\def\@mastodoninstance{#1}\def\@mastodonname{#2}}
+
+% Defines writer's resarchgate (optional)
+% Usage: \researchgate{<researchgate-account>}
+\newcommand*{\researchgate}[1]{\def\@researchgate{#1}}
+
+% Defines writer's skype (optional)
+% Usage: \skype{<skype account>}
+\newcommand*{\skype}[1]{\def\@skype{#1}}
+
+% Defines writer's reddit (optional)
+% Usage: \reddit{<reddit account>}
+\newcommand*{\reddit}[1]{\def\@reddit{#1}}
+
+% Defines writer's xing (optional)
+% Usage: \xing{<xing name>}
+\newcommand*{\xing}[1]{\def\@xing{#1}}
+
+% Defines writer's medium profile (optional)
+% Usage: \medium{<medium account>}
+\newcommand*{\medium}[1]{\def\@medium{#1}}
+
+% Defines writer's kaggle (optional)
+% Usage: \kaggle{<kaggle handle>}
+\newcommand*{\kaggle}[1]{\def\@kaggle{#1}}
+
+% Defines writer's google scholar profile (optional)
+% Usage: \googlescholar{<googlescholar userid>}{<googlescholar username>}
+% e.g.https://scholar.google.co.uk/citations?user=wpZDx1cAAAAJ
+% would be \googlescholar{wpZDx1cAAAAJ}{Name-to-display-next-icon}
+% If 'googlescholar-name' is not provided than it defaults to
+% '\firstname \lastname'
+\newcommand*{\googlescholar}[2]{%
+  \def\@googlescholarid{#1}%
+  \ifthenelse{\equal{#2}{}}{%
+    \def\@googlescholarname{\@firstname~\@lastname}%
+  }{%
+    \def\@googlescholarname{#2}%
+  }%
+}
+
+% Defines writer's extra information (optional)
+% Usage: \extrainfo{<extra information>}
+\newcommand*{\extrainfo}[1]{\def\@extrainfo{#1}}
+
+% Defines writer's quote (optional)
+% Usage: \quote{<quote>}
+\renewcommand*{\quote}[1]{\def\@quote{#1}}
+
+% Defines recipient's information (cover letter only)
+% Usage: \recipient{<recipient name>}{<recipient address>}
+% Usage: \recipientname{<recipient name>}
+% Usage: \recipientaddress{<recipient address>}
+\newcommand*{\recipient}[2]{\def\@recipientname{#1}\def\@recipientaddress{#2}}
+\newcommand*{\recipientname}[1]{\def\@recipientname{#1}}
+\newcommand*{\recipientaddress}[1]{\def\@recipientaddress{#1}}
+
+% Defines the title for letter (cover letter only, optional)
+% Usage: \lettertitle{<title>}
+\newcommand*{\lettertitle}[1]{\def\@lettertitle{#1}}
+
+% Defines the date for letter (cover letter only)
+% Usage: \letterdate{<date>}
+\newcommand*{\letterdate}[1]{\def\@letterdate{#1}}
+
+% Defines a message of opening for letter (cover letter only)
+% Usage: \letteropening{<message>}
+\newcommand*{\letteropening}[1]{\def\@letteropening{#1}}
+
+% Defines a message of closing for letter (cover letter only)
+% Usage: \letterclosing{<message>}
+\newcommand*{\letterclosing}[1]{\def\@letterclosing{#1}}
+
+% Defines an enclosure for letter (cover letter only, optional)
+% Usage: \letterenclosure[<enclosure name>]{<enclosure>}
+\newcommand*{\letterenclname}[1][Enclosure]{\def\@letterenclname{#1}}
+\newcommand*{\letterenclosure}[2][]{%
+  % if an optional argument is provided, use it to redefine \enclname
+  \ifthenelse{\equal{#1}{}}{}{\def\@letterenclname{#1}}
+  \def\@letterenclosure{#2}
+}
+
+
+%-------------------------------------------------------------------------------
+%                Commands for extra
+%-------------------------------------------------------------------------------
+%% Define helper macros a user can change easily
+% Header
+\newcommand{\acvHeaderNameDelim}{\space}
+\newcommand{\acvHeaderAfterNameSkip}{.4mm}
+\newcommand{\acvHeaderAfterPositionSkip}{.4mm}
+\newcommand{\acvHeaderAfterAddressSkip}{-.5mm}
+\newcommand{\acvHeaderIconSep}{\space}
+\newcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+\newcommand{\acvHeaderAfterSocialSkip}{6mm}
+\newcommand{\acvHeaderAfterQuoteSkip}{5mm}
+
+% Others
+\newcommand{\acvSectionTopSkip}{3mm}
+\newcommand{\acvSectionContentTopSkip}{2.5mm}
+
+
+%-------------------------------------------------------------------------------
+%                Commands for utilities
+%-------------------------------------------------------------------------------
+% Use to align an element of tabular table
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+% Use to draw horizontal line with specific thickness
+\def\vhrulefill#1{\leavevmode\leaders\hrule\@height#1\hfill \kern\z@}
+
+% Use to execute conditional statements by checking empty string
+\newcommand*{\ifempty}[3]{\ifthenelse{\isempty{#1}}{#2}{#3}}
+
+
+%-------------------------------------------------------------------------------
+%                Commands for elements of CV structure
+%-------------------------------------------------------------------------------
+% Define a header for CV
+% Usage: \makecvheader
+\newcommand*{\makecvheader}[1][C]{%
+  \newcommand*{\drawphoto}{%
+    \ifthenelse{\isundefined{\@photo}}{}{%
+      \newlength{\photodim}
+      \ifthenelse{\equal{\@photoshape}{circle}}%
+        {\setlength{\photodim}{1.3cm}}%
+        {\setlength{\photodim}{1.8cm}}%
+      \ifthenelse{\equal{\@photoedge}{edge}}%
+        {\def\@photoborder{darkgray}}%
+        {\def\@photoborder{none}}%
+      \begin{tikzpicture}%
+        \node[\@photoshape, draw=\@photoborder, line width=0.3mm, inner sep=\photodim, fill overzoom image=\@photo] () {};
+      \end{tikzpicture}
+    }%
+  }
+  \newlength{\headertextwidth}
+  \newlength{\headerphotowidth}
+  \ifthenelse{\isundefined{\@photo}}{
+    \setlength{\headertextwidth}{\textwidth}
+    \setlength{\headerphotowidth}{0cm}
+  }{%
+    \setlength{\headertextwidth}{0.76\textwidth}
+    \setlength{\headerphotowidth}{0.24\textwidth}
+  }%
+  \begin{minipage}[c]{\headerphotowidth}%
+    \ifthenelse{\equal{\@photoalign}{left}}{\raggedright\drawphoto}{}
+  \end{minipage}
+  \begin{minipage}[c]{\headertextwidth}
+    \ifthenelse{\equal{#1}{L}}{\raggedright}{\ifthenelse{\equal{#1}{R}}{\raggedleft}{\centering}}
+    \headerfirstnamestyle{\@firstname}\headerlastnamestyle{{}\acvHeaderNameDelim\@lastname}%
+    \\[\acvHeaderAfterNameSkip]%
+    \ifthenelse{\isundefined{\@position}}{}{\headerpositionstyle{\@position\\[\acvHeaderAfterPositionSkip]}}%
+    \ifthenelse{\isundefined{\@address}}{}{\headeraddressstyle{\@address\\[\acvHeaderAfterAddressSkip]}}%
+    \headersocialstyle{%
+      \newbool{isstart}%
+      \setbool{isstart}{true}%
+      \ifthenelse{\isundefined{\@mobile}}%
+        {}%
+        {%
+          \href{tel:\@mobile}{\faMobile\acvHeaderIconSep\@mobile}%
+          \setbool{isstart}{false}%
+        }%
+      \ifthenelse{\isundefined{\@email}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{mailto:\@email}{\faEnvelope\acvHeaderIconSep\@email}%
+        }%
+      \ifthenelse{\isundefined{\@dateofbirth}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          % \mbox prevents wrapping of elements%
+          \mbox{\faBirthdayCake\acvHeaderIconSep\@dateofbirth}%
+        }%
+      \ifthenelse{\isundefined{\@homepage}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{http://\@homepage}{\faHome\acvHeaderIconSep\@homepage}%
+        }%
+      \ifthenelse{\isundefined{\@github}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{https://\@github}{\faGithubSquare\acvHeaderIconSep\@github}%
+        }%
+      \ifthenelse{\isundefined{\@gitlab}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{https://gitlab.com/\@gitlab}{\faGitlab\acvHeaderIconSep\@gitlab}%
+        }%
+      \ifthenelse{\isundefined{\@bitbucket}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{https://bitbucket.com/\@bitbucket}{\faBitbucket\acvHeaderIconSep\@bitbucket}%
+        }%
+      \ifthenelse{\isundefined{\@stackoverflowid}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{https://stackoverflow.com/users/\@stackoverflowid}{\faStackOverflow\acvHeaderIconSep\@stackoverflowname}%
+        }%
+      \ifthenelse{\isundefined{\@linkedin}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{https://www.\@linkedin}{\faLinkedin\acvHeaderIconSep\@linkedin}%
+        }%
+      \ifthenelse{\isundefined{\@orcid}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{https://orcid.org/\@orcid}{\faOrcid\acvHeaderIconSep\@orcid}%
+        }%
+      \ifthenelse{\isundefined{\@twitter}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{https://twitter.com/\@twitter}{\faTwitter\acvHeaderIconSep\@twitter}%
+        }%
+      \ifthenelse{\isundefined{\@mastodonname}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{https://\@mastodoninstance/@\@mastodonname}{\faMastodon\acvHeaderIconSep\@mastodonname}%
+        }%
+      \ifthenelse{\isundefined{\@skype}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \faSkype\acvHeaderIconSep\@skype%
+        }%
+      \ifthenelse{\isundefined{\@reddit}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{https://www.reddit.com/user/\@reddit}{\faReddit\acvHeaderIconSep\@reddit}%
+        }%
+      \ifthenelse{\isundefined{\@researchgate}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{https://www.researchgate.net/profile/\@researchgate}{\faResearchgate\acvHeaderIconSep\@researchgate}%
+        }%
+      \ifthenelse{\isundefined{\@xing}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{https://www.xing.com/profile/\@xing}{\faXingSquare\acvHeaderIconSep\@xing}
+        }%
+      \ifthenelse{\isundefined{\@medium}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{https://medium.com/@\@medium}{\faMedium\acvHeaderIconSep\@medium}%
+        }%
+      \ifthenelse{\isundefined{\@kaggle}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{https://kaggle.com/\@kaggle}{\faKaggle\acvHeaderIconSep\@kaggle}%
+        }%
+      \ifthenelse{\isundefined{\@googlescholarid}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{https://scholar.google.com/citations?user=\@googlescholarid}{\faGraduationCap\acvHeaderIconSep\@googlescholarname}%
+        }%
+      \ifthenelse{\isundefined{\@extrainfo}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \@extrainfo%
+        }%
+    } \\[\acvHeaderAfterSocialSkip]%
+    \ifthenelse{\isundefined{\@quote}}%
+      {}%
+      {\headerquotestyle{\@quote\\}\vspace{\acvHeaderAfterQuoteSkip}}%
+  \end{minipage}%
+  \begin{minipage}[c]{\headerphotowidth}%
+    \ifthenelse{\equal{\@photoalign}{right}}{\raggedleft\drawphoto}{}
+  \end{minipage}
+}
+
+% Define a footer for CV
+% Usage: \makecvfooter{<left>}{<center>}{<right>}
+\newcommand*{\makecvfooter}[3]{%
+  \fancyfoot{}
+  \fancyfoot[L]{\footerstyle{#1}}
+  \fancyfoot[C]{\footerstyle{#2}}
+  \fancyfoot[R]{\footerstyle{#3}}
+}
+
+% Define a section for CV
+% Usage: \cvsection{<section-title>}
+\newcommand{\cvsection}[1]{%
+  \vspace{\acvSectionTopSkip}
+  \sectionstyle{#1}
+  \phantomsection
+  \color{sectiondivider}\vhrulefill{0.9pt}
+}
+
+% Define a subsection for CV
+% Usage: \cvsubsection{<subsection-title>}
+\newcommand{\cvsubsection}[1]{%
+  \vspace{\acvSectionContentTopSkip}
+  \vspace{-3mm}
+  \subsectionstyle{#1}
+  \phantomsection
+}
+
+% Define a paragraph for CV
+\newenvironment{cvparagraph}{%
+  \vspace{\acvSectionContentTopSkip}
+  \vspace{-3mm}
+  \paragraphstyle
+}{%
+  \par
+  \vspace{2mm}
+}
+
+% Define an environment for cventry
+\newenvironment{cventries}{%
+  \vspace{\acvSectionContentTopSkip}
+  \begin{center}
+}{%
+  \end{center}
+}
+% Define an entry of cv information
+% Usage: \cventry{<position>}{<title>}{<location>}{<date>}{<description>}
+\newcommand*{\cventry}[5]{%
+  \vspace{-2.0mm}
+  \setlength\tabcolsep{0pt}
+  \setlength{\extrarowheight}{0pt}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
+    \ifempty{#2#3}
+      {\entrypositionstyle{#1} & \entrydatestyle{#4} \\}
+      {\entrytitlestyle{#2} & \entrylocationstyle{#3} \\
+      \entrypositionstyle{#1} & \entrydatestyle{#4} \\}
+    \multicolumn{2}{L{\textwidth}}{\descriptionstyle{#5}}
+  \end{tabular*}%
+}
+
+% Define an environment for cvsubentry
+\newenvironment{cvsubentries}{%
+  \begin{center}
+}{%
+  \end{center}
+}
+% Define a subentry of cv information
+% Usage: \cvsubentry{<position>}{<title>}{<date>}{<description>}
+\newcommand*{\cvsubentry}[4]{%
+  \setlength\tabcolsep{0pt}
+  \setlength{\extrarowheight}{0pt}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
+    \setlength\leftskip{0.2cm}
+    \subentrytitlestyle{#2} & \ifthenelse{\equal{#1}{}}
+      {\subentrydatestyle{#3}}{}
+    \ifthenelse{\equal{#1}{}}
+      {}
+      {\subentrypositionstyle{#1} & \subentrydatestyle{#3} \\}
+    \ifthenelse{\equal{#4}{}}
+      {}
+      {\multicolumn{2}{L{17.0cm}}{\subdescriptionstyle{#4}} \\}
+  \end{tabular*}
+}
+
+% Define an environment for cvhonor
+\newenvironment{cvhonors}{%
+  \vspace{\acvSectionContentTopSkip}
+  \vspace{-2mm}
+  \begin{center}
+    \setlength\tabcolsep{0pt}
+    \setlength{\extrarowheight}{0pt}
+    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} C{1.5cm} L{\textwidth - 4.0cm} R{2.5cm}}
+}{%
+    \end{tabular*}
+  \end{center}
+}
+% Define a line of cv information(honor, award or something else)
+% Usage: \cvhonor{<position>}{<title>}{<location>}{<date>}
+\newcommand*{\cvhonor}[4]{%
+  \honordatestyle{#4} & \honorpositionstyle{#1}, \honortitlestyle{#2} & \honorlocationstyle{#3} \\
+}
+
+% Define an environment for cvskill
+\newenvironment{cvskills}{%
+  \vspace{\acvSectionContentTopSkip}
+  \vspace{-2.0mm}
+  \begin{center}
+    \setlength\tabcolsep{1ex}
+    \setlength{\extrarowheight}{0pt}
+    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} r L{\textwidth * \real{0.9}}}
+}{%
+    \end{tabular*}
+  \end{center}
+}
+% Define a line of cv information(skill)
+% Usage: \cvskill{<type>}{<skillset>}
+\newcommand*{\cvskill}[2]{%
+  \skilltypestyle{#1} & \skillsetstyle{#2} \\
+}
+
+% Define an environment for cvitems(for cventry)
+\newenvironment{cvitems}{%
+  \vspace{-4.0mm}
+  \begin{justify}
+  \begin{itemize}[leftmargin=2ex, nosep, noitemsep]
+    \setlength{\parskip}{0pt}
+    \renewcommand{\labelitemi}{\bullet}
+}{%
+  \end{itemize}
+  \end{justify}
+  \vspace{-4.0mm}
+}
+
+
+%-------------------------------------------------------------------------------
+%                Commands for elements of Cover Letter
+%-------------------------------------------------------------------------------
+% Define an environment for cvletter
+\newenvironment{cvletter}{%
+  \lettertextstyle
+}{%
+}
+
+% Define a section for the cover letter
+% Usage: \lettersection{<section-title>}
+\newcommand{\lettersection}[1]{%
+  \par\addvspace{2.5ex}
+  \phantomsection{}
+  \lettersectionstyle{#1}
+  \color{sectiondivider}\vhrulefill{0.9pt}
+  \par\nobreak\addvspace{0.4ex}
+  \lettertextstyle
+}
+
+% Define a title of the cover letter
+% Usage: \makelettertitle
+\newcommand*{\makelettertitle}{%
+  \vspace{8.4mm}
+  \setlength\tabcolsep{0pt}
+  \setlength{\extrarowheight}{0pt}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
+    \recipienttitlestyle{\@recipientname} & \letterdatestyle{\@letterdate}
+  \end{tabular*}
+  \begin{singlespace}
+    \recipientaddressstyle{\@recipientaddress} \\\\
+  \end{singlespace}
+  \ifthenelse{\isundefined{\@lettertitle}}
+    {}
+    {\lettertitlestyle{\@lettertitle} \\}
+  \lettertextstyle{\@letteropening}
+}
+
+% Define a closing of the cover letter
+% Usage: \makeletterclosing
+\newcommand*{\makeletterclosing}{%
+  \vspace{3.4mm}
+  \lettertextstyle{\@letterclosing} \\\\
+  \letternamestyle{\@firstname\ \@lastname}
+  \ifthenelse{\isundefined{\@letterenclosure}}
+    {\\}
+    {%
+      \\\\\\
+      \letterenclosurestyle{\@letterenclname: \@letterenclosure} \\
+    }
+}
